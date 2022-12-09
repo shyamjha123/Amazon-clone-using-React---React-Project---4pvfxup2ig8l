@@ -8,14 +8,10 @@ You can use the following information to make a payment:
 - Valid Date: 0424
 - ZIP Code: 42424
 
-Click demo to try it by yourself!
 
-## Amazon-Clone Demo Link
 
-You can view the site here
-[Click Me](https://amzn-clone-ozngrsc.web.app/)
 
-## Topics
+## Teck-Use
 
 - ReactJS
 - Firebase's Firestore realtime Database
@@ -32,9 +28,3 @@ You can view the site here
 - Deploy the App LIVE on Firebase
 
 
-
-## Author
-
-Ozan Gürsucu (ozngrsc)
-
-<img src="src/images/screenshot.png"  width= 500px height= 400px>
