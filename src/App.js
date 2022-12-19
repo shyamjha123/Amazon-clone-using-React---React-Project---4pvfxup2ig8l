@@ -13,9 +13,11 @@ import { Elements } from "@stripe/react-stripe-js";
 import Orders from "./Components/Orders Page/Orders";
 
 const promise = loadStripe(
-  "pk_test_51MBbvHSD0suCjABabpQwIolGgIwaP6ZSCj0gNFuv3Eb1723oMV7X8A1XqBBP1OPkNxkywBBMnI6ftAShrEwJE2cP001lLSrzk3"
- //"pk_test_51MBbvHSD0suCjABabpQwIolGgIwaP6ZSCj0gNFuv3Eb1723oMV7X8A1XqBBP1OPkNxkywBBMnI6ftAShrEwJE2cP001lLSrzk3"
- // "pk_test_51LFgpvF3oeaFZvcR42YhjIj4cbs5OrXHildtgt6vAuvph0QPhBahVFZrPXjkDgfOJqZuDde0jODHHCGowk0ZFmif00SNh4J0Tz"
+ 
+  
+ 
+  "pk_test_51LFgpvF3oeaFZvcR42YhjIj4cbs5OrXHildtgt6vAuvph0QPhBahVFZrPXjkDgfOJqZuDde0jODHHCGowk0ZFmif00SNh4J0Tz"
+  
 );
 
 function App() {

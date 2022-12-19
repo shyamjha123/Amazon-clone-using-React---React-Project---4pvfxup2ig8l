@@ -90,8 +90,8 @@ function Payment() {
           </div>
           <div className="payment__address">
             <p>{user?.email}</p>
-            <p>41100 React Street</p>
-            <p>Kocaeli, TR</p>
+            <p>Karkend bajara Dhanbad jharkhand</p>
+            <p>Near Daffodls Academy School</p>
           </div>
         </div>
 
